@@ -5,4 +5,4 @@
 
 ## ElectronJS
 [Windows 10 RCE: The exploit is in the link](https://positive.security/blog/ms-officecmd-rce)\
-[DOC - Electrolint and Security of Electron Applications](https://www.sciencedirect.com/science/article/pii/S2667295221000040)
+[\[DOC\] Electrolint and Security of Electron Applications](https://www.sciencedirect.com/science/article/pii/S2667295221000040)
