@@ -10,5 +10,8 @@
 ## XSS
 [Fuzzing for XSS via nested parsers condition](https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/)
 
+## Business logic 
+[An Exploration of JSON Interoperability Vulnerabilities](https://bishopfox.com/blog/json-interoperability-vulnerabilities)
+
 ## Bug bounty report tips
 [Example of conversing with vendor team](https://feed.bugs.xdavidhu.me/bugs/0012)
